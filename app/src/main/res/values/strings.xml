@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="products">Products</string>
+    <string name="orders">Orders</string>
+    <string name="payment">Payment</string>
+    <string name="go_payment">Go Payment</string>
+    <string name="pay">Pay</string>
+    <string name="month_year">Month / Year</string>
+    <string name="card_number">Card Number</string>
+    <string name="card_name_surname">Card Name Surname</string>
+    <string name="cannot_empty">Cannot be empty</string>
+    <string name="invalid_date">Invalid date</string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="order_received">Your order has been received</string>
+</resources>
